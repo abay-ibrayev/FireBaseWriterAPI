@@ -1,0 +1,101 @@
+2017-01-24 11:37:17 INFO  FireStoreWriter:37 - class kz.fa.firebasewriter.writers.FireStoreWriter Creating... -KbDybCqMm-9TOKJrio4
+kz.fa.firebasewriter.model.FireStore@31b7dea0
+2017-01-24 11:52:22 INFO  FireNewGoodWriter:19 - class kz.fa.firebasewriter.writers.FireNewGoodWriter Creating... 
+FireGood{id='123', barcode='azaza', caption='null', measure='null'}
+2017-01-24 11:54:17 INFO  FireNewGoodWriter:34 - class kz.fa.firebasewriter.writers.FireNewGoodWriter Transfer to Goods... 
+2017-01-24 11:56:55 INFO  FireNewGoodWriter:34 - class kz.fa.firebasewriter.writers.FireNewGoodWriter Transfer to Goods... 
+2017-01-24 12:00:18 INFO  FireNewGoodWriter:19 - class kz.fa.firebasewriter.writers.FireNewGoodWriter Creating... 
+FireGood{id='-KbE138L1i0I5Nf3dt78', barcode='azaza', caption='null', measure='null'}
+2017-01-24 12:01:12 INFO  FireNewGoodWriter:34 - class kz.fa.firebasewriter.writers.FireNewGoodWriter Transfer to Goods... 
+2017-01-24 12:39:45 INFO  FireNewGoodWriter:33 - class kz.fa.firebasewriter.writers.FireNewGoodWriter Transfer to Goods... https://fir-writerexample.firebaseio.com/newGoods/torgai/-KbE2sSJRbKcXTkSQ3Bq
+2017-02-15 15:37:02 INFO  StdSchedulerFactory:1184 - Using default implementation for ThreadExecutor
+2017-02-15 15:37:02 INFO  SimpleThreadPool:268 - Job execution threads will use class loader of thread: main
+2017-02-15 15:37:02 INFO  SchedulerSignalerImpl:61 - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2017-02-15 15:37:02 INFO  QuartzScheduler:240 - Quartz Scheduler v.2.2.1 created.
+2017-02-15 15:37:02 INFO  RAMJobStore:155 - RAMJobStore initialized.
+2017-02-15 15:37:02 INFO  QuartzScheduler:305 - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2017-02-15 15:37:02 INFO  StdSchedulerFactory:1339 - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2017-02-15 15:37:02 INFO  StdSchedulerFactory:1343 - Quartz scheduler version: 2.2.1
+2017-02-15 15:37:02 INFO  QuartzScheduler:575 - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2017-02-15 15:37:02 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:37:02 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:37:03 DEBUG UpdateChecker:54 - Checking for available updated version of Quartz...
+2017-02-15 15:37:27 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:37:55 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:38:20 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:38:48 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:40:02 INFO  StdSchedulerFactory:1184 - Using default implementation for ThreadExecutor
+2017-02-15 15:40:02 INFO  SimpleThreadPool:268 - Job execution threads will use class loader of thread: main
+2017-02-15 15:40:02 INFO  SchedulerSignalerImpl:61 - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2017-02-15 15:40:02 INFO  QuartzScheduler:240 - Quartz Scheduler v.2.2.1 created.
+2017-02-15 15:40:02 INFO  RAMJobStore:155 - RAMJobStore initialized.
+2017-02-15 15:40:02 INFO  QuartzScheduler:305 - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2017-02-15 15:40:02 INFO  StdSchedulerFactory:1339 - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2017-02-15 15:40:02 INFO  StdSchedulerFactory:1343 - Quartz scheduler version: 2.2.1
+2017-02-15 15:40:02 INFO  QuartzScheduler:575 - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2017-02-15 15:40:02 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:40:03 DEBUG UpdateChecker:54 - Checking for available updated version of Quartz...
+2017-02-15 15:40:29 INFO  StdSchedulerFactory:1184 - Using default implementation for ThreadExecutor
+2017-02-15 15:40:29 INFO  SimpleThreadPool:268 - Job execution threads will use class loader of thread: main
+2017-02-15 15:40:29 INFO  SchedulerSignalerImpl:61 - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2017-02-15 15:40:29 INFO  QuartzScheduler:240 - Quartz Scheduler v.2.2.1 created.
+2017-02-15 15:40:29 INFO  RAMJobStore:155 - RAMJobStore initialized.
+2017-02-15 15:40:29 INFO  QuartzScheduler:305 - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2017-02-15 15:40:29 INFO  StdSchedulerFactory:1339 - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2017-02-15 15:40:29 INFO  StdSchedulerFactory:1343 - Quartz scheduler version: 2.2.1
+2017-02-15 15:40:29 INFO  QuartzScheduler:575 - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2017-02-15 15:40:29 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:40:30 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:40:30 DEBUG UpdateChecker:54 - Checking for available updated version of Quartz...
+2017-02-15 15:40:54 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:40:59 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:41:17 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:41:25 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:41:44 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:41:54 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:42:07 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:42:18 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:42:33 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:42:41 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:42:52 INFO  StdSchedulerFactory:1184 - Using default implementation for ThreadExecutor
+2017-02-15 15:42:52 INFO  SimpleThreadPool:268 - Job execution threads will use class loader of thread: main
+2017-02-15 15:42:52 INFO  SchedulerSignalerImpl:61 - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2017-02-15 15:42:52 INFO  QuartzScheduler:240 - Quartz Scheduler v.2.2.1 created.
+2017-02-15 15:42:52 INFO  RAMJobStore:155 - RAMJobStore initialized.
+2017-02-15 15:42:52 INFO  QuartzScheduler:305 - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2017-02-15 15:42:52 INFO  StdSchedulerFactory:1339 - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2017-02-15 15:42:52 INFO  StdSchedulerFactory:1343 - Quartz scheduler version: 2.2.1
+2017-02-15 15:42:52 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:42:52 INFO  QuartzScheduler:575 - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2017-02-15 15:42:52 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:42:53 DEBUG UpdateChecker:54 - Checking for available updated version of Quartz...
+2017-02-15 15:43:16 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
+2017-02-15 15:43:44 DEBUG QuartzSchedulerThread:276 - batch acquisition of 0 triggers
